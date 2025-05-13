@@ -21,9 +21,6 @@ These materials are designed for use in AI-assisted classrooms where students:
 
 ## 🔗 Citation and Attribution
 
-Created by [Your Name or Institution], based on methods developed in:
+Created by Snigdha Bose, based on methods developed in:
 > *Redesigning STEM Education with Naturalistic Programming using Structured Constraint Satisfaction Problems (2025)*
 
----
-
-Let me know if you’d like a LaTeX-formatted citation for this repo or help configuring the repo homepage (e.g., using GitHub Pages for documentation).
